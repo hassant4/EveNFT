@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ZORA API Hackathon submission
+ZORA API Hackathon submission 13/6/22 by [@HassanTahir__](https://twitter.com/hassantahir__)
+
+## Youtube explanation of project
+This may be uploaded after the submission deadline 9am PST
+
 
 ## Getting Started
 
