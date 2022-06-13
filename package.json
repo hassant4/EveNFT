@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^1.35.3",
+    "@walletconnect/client": "^1.7.8",
+    "@walletconnect/qrcode-modal": "^1.7.8",
+    "@zoralabs/zdk": "^2.1.2",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-qr-code": "^2.0.7",
+    "react-qr-reader": "^3.0.0-beta-1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
