@@ -2,7 +2,7 @@
 ZORA API Hackathon submission 13/6/22 by [@HassanTahir__](https://twitter.com/hassantahir__)
 
 ## Youtube explanation of project
-This may be uploaded after the submission deadline 9am PST
+See description on Github for link to vid
 
 
 ## Getting Started
